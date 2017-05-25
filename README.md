@@ -2,7 +2,7 @@
 you can use it such as :
 
 in html:
-//<div id="Pavilion">
+#<div id="Pavilion">
 //            <li>
 //                <div class="news ">
 //                </div>
